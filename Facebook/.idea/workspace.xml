@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c21d3562-f7c6-4aa9-b99a-8c827ebd5bc2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XL3ra1IADTlFo2jBKVSACZ6Pby" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../WebTest1/WebTest1.iml" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Login" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Romic Masih\IdeaProjects\Facebook\Facebook\src\test\java\BrowserDrivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Exercise">
+    <configuration name="Exercise" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="123" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Login" />
+      <option name="MAIN_CLASS_NAME" value="Login.Exercise" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise.cineworld" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="123" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Login" />
+      <option name="MAIN_CLASS_NAME" value="Login.Exercise" />
+      <option name="METHOD_NAME" value="cineworld" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise.mockplus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="123" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Login" />
+      <option name="MAIN_CLASS_NAME" value="Login.Exercise" />
+      <option name="METHOD_NAME" value="mockplus" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise.orangehrm" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="123" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Login" />
+      <option name="MAIN_CLASS_NAME" value="Login.Exercise" />
+      <option name="METHOD_NAME" value="orangehrm" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise.userShouldAbleToRegisterSuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="123" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Login" />
+      <option name="MAIN_CLASS_NAME" value="Login.Exercise" />
+      <option name="METHOD_NAME" value="userShouldAbleToRegisterSuccessfully" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Exercise" />
+        <item itemvalue="JUnit.Exercise.cineworld" />
+        <item itemvalue="JUnit.Exercise.orangehrm" />
+        <item itemvalue="JUnit.Exercise.userShouldAbleToRegisterSuccessfully" />
+        <item itemvalue="JUnit.Exercise.mockplus" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c21d3562-f7c6-4aa9-b99a-8c827ebd5bc2" name="Default Changelist" comment="" />
+      <created>1580811746469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580811746469</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="914" y="52" key="#com.intellij.ide.util.MemberChooser" timestamp="1580866568780">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="914" y="52" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1580866568780" />
+    <state x="436" y="95" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580890936463">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="436" y="95" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1580890936463" />
+    <state x="499" y="105" key="FileChooserDialogImpl" timestamp="1581026529905">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="105" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581026529905" />
+    <state width="1481" height="198" key="GridCell.Tab.0.bottom" timestamp="1581032464706">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="198" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581032464706" />
+    <state width="1481" height="198" key="GridCell.Tab.0.center" timestamp="1581032464706">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="198" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581032464706" />
+    <state width="1481" height="198" key="GridCell.Tab.0.left" timestamp="1581032464706">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="198" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581032464706" />
+    <state width="1481" height="198" key="GridCell.Tab.0.right" timestamp="1581032464706">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="198" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581032464706" />
+    <state width="1057" height="245" key="GridCell.Tab.1.bottom" timestamp="1580813559582">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1057" height="245" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580813559582" />
+    <state width="1057" height="245" key="GridCell.Tab.1.center" timestamp="1580813559582">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1057" height="245" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1580813559582" />
+    <state width="1057" height="245" key="GridCell.Tab.1.left" timestamp="1580813559582">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1057" height="245" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1580813559582" />
+    <state width="1057" height="245" key="GridCell.Tab.1.right" timestamp="1580813559582">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1057" height="245" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1580813559582" />
+    <state x="154" y="0" key="Maven.ArtifactSearchDialog" timestamp="1580863496124">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="154" y="0" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1580863496124" />
+    <state x="39" y="35" key="new project wizard" timestamp="1580891422368">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="39" y="35" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1580891422368" />
+    <state x="903" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1580855797381">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="903" y="0" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1580855797381" />
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1580863758655">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1580863758655" />
+  </component>
+</project>
